@@ -2,14 +2,6 @@
 
 This is the repository for my portfolio website, showcasing my skills, projects, and experiences as a web developer. The website is built using React.js and Next.js for server-side rendering, with a modern design that reflects my personal brand.
 
-## Features
-
-- Hero section with an introduction, skills, and recent projects
-- About section with my background and work experience
-- Portfolio section with all of my projects, including descriptions and live links
-- Contact section with a form to get in touch with me
-- Responsive design that works well on all devices
-
 ## Technologies Used
 
 - React
