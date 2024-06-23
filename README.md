@@ -1,6 +1,6 @@
 # Blog
 
-This is the repository for my portfolio website, showcasing my skills, projects, and experiences as a web developer. The website is built using React.js and Next.js for server-side rendering, with a modern design that reflects my personal brand.
+Blog hosted at blog.josivahera.tech
 
 ## Technologies Used
 
