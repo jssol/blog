@@ -2,14 +2,6 @@
 
 Blog hosted at blog.josivahera.tech
 
-## Technologies Used
-
-- React
-- Next.js
-- TypeScript
-- Sass
-- Google Fonts
-
 ## Getting Started
 
 To get started, simply clone this repository and run `npm install` to install all dependencies. Then, run `npm run dev` to start the development server and view the website in your browser.
