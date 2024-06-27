@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is a portfolio website, featuring a fully integrated content management system and advanced writing tools. It’s designed to serve as a blog where users can engage with each other by liking and commenting on posts. The website is built using the cutting-edge Next.js framework, which enables efficient rendering and a user-friendly experience.
 
 ## Getting Started
 
